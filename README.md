@@ -23,3 +23,7 @@ Transition from my current software engineering role to a backend developer role
 - [ ] Git basics
 - [ ] Terminal basics
 - [ ] Markdown
+
+## Git Practice
+
+Learning Git branching and merging.
