@@ -47,3 +47,9 @@ git status
 git add .
 git commit -m "message"
 ```
+
+## Day 2 Progress
+
+- Connected repository to GitHub
+- Learned about remote repositories
+- Successfully pushed my first project
