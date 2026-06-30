@@ -1,3 +1,13 @@
 node_modules/
 .env
 dist/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
