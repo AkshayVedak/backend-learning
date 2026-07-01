@@ -53,3 +53,7 @@ git commit -m "message"
 - Connected repository to GitHub
 - Learned about remote repositories
 - Successfully pushed my first project
+
+## Stash Practice
+
+Learning git stash.
